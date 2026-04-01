@@ -1,2 +1,2 @@
-# stellar-burgers-ui-tests
-UI-автотесты для Stellar Burgers на Selenium (Page Object, Allure, Chrome &amp; Firefox)
+# Diplom_3
+Дипломная работа Калиниченко Анатолия 34, Задание 3. Автотесты для UI
